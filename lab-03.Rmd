@@ -34,12 +34,12 @@ Are there missing values?
 
 ```{r}
 # explore the types of the columns in jan_feb_flights
-
+integar,double,character,data frame.
 ```
 
 ```{r}
 # which columns are integer
-
+year,month,day,dep_time,sched_dep_time,arr_time,sched_arr_time,flight.
 
 # which columns are double
 
