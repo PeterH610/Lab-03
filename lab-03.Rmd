@@ -1,6 +1,6 @@
 ---
 title: "Lab 03 – Critical-Responsible Use of GenAI for Data Science"
-author: "Team Name: Peter610"
+author: "Team Name: "Peter","
 date: "`r Sys.Date()`"
 output: html_document
 ---
@@ -34,7 +34,7 @@ Are there missing values?
 
 ```{r}
 # explore the types of the columns in jan_feb_flights
-integar,double,character,data frame.
+integar,double,character,data_frame.
 ```
 
 ```{r}
